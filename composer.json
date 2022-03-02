@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Henry\\PhpUnitTest\\": "src/"
+            "Henry\\PhpUnitTestExample\\": "src/"
         }
     },
     "authors": [
