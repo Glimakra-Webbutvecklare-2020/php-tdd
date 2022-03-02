@@ -1,0 +1,22 @@
+{
+    "name": "henry/php-unit-test",
+    "description": "Testing unit testing and TDD with php",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Henry\\PhpUnitTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "frozenbanan",
+            "email": "henrybergstrom@protonmail.com"
+        }
+    ]
+}
